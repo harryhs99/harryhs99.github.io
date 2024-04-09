@@ -1,0 +1,19 @@
+body {
+  background: #111;
+}
+
+.hidden {
+  opacity: 0;
+}
+
+.console-container {
+  font-family: "JetBrains Mono", monospace;
+  font-weight: 400;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 5em;
+  text-align: center;
+  height: 95vh;
+  color: #008529;
+}
