@@ -1,5 +1,6 @@
 body {
   background: #111;
+  margin: 0;
 }
 
 .hidden {
@@ -12,8 +13,9 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: 5em;
+  font-size: 7em;
   text-align: center;
-  height: 95vh;
+  height: 99vh;
   color: #008529;
+  user-select: none;
 }
